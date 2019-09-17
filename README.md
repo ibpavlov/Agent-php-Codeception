@@ -1,5 +1,6 @@
 # ReportPortal agent for Codeception
 
+This repo is moved to [https://github.com/objectsystems/reporting-portal-agent-codeception](https://github.com/objectsystems/reporting-portal-agent-codeception)
 Specific class to integrate Codeception-based test framework with Report Portal (http://reportportal.io/).
 
 ### Install:
